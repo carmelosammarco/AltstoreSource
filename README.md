@@ -1,3 +1,3 @@
-# AltstoreSource Repository by <Sicilian4ever>
+## Sicilian4ever AltstoreSource Repository:
 
-## - Daily Vibes
+### - Daily Vibes
