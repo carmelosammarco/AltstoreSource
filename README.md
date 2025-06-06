@@ -1,3 +1,6 @@
-## Sicilian4ever AltstoreSource Repository:
+## Sicilian4ever AltstoreSource Repository
 
-### - Daily Vibes
+### SOURCE: https://carmelosammarco.github.io/AltstoreSource/Sicilian4ever.json
+
+#### APP LIST:
+- Daily Vibes
