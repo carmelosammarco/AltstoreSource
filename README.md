@@ -1,4 +1,4 @@
-## Sicilian4ever AltstoreSource Classic Repository (NOT NOTARIEZED APP)
+## AltstoreSource Classic Repository
 
 ### SOURCE: https://carmelosammarco.github.io/AltstoreSource/Sicilian4ever.json
 
