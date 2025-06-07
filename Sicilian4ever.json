@@ -1,7 +1,7 @@
 {
   "name": "Sicilian4ever",
   "sourceURL": "https://carmelosammarco.github.io/AltstoreSource/Sicilian4ever.json",
-  "subtitle": "A source for all my apps",
+  "subtitle": "My Altstore Source",
   "description": "Welcome to my Altstore Repo source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/WqWtNaE.png",
   "website": "https://carmelosammarco.vercel.app",
@@ -15,19 +15,21 @@
       "name": "Daily Vibes",
       "bundleIdentifier": "com.carmelos.dailyvibeapp",
       "developerName": "Carmelo Sammarco",
-      "subtitle": "Track daily your vibes with notes and make your long term plans",
+      "subtitle": "Track daily your vibes with notes and set long term plans",
       "version": "1.0.0",
       "versionDate": "2025-06-07T12:22:45.955Z",
       "versionDescription": "Daily vibe your days and make plans",
       "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/DailyVibe/DailyVibes2.ipa",
-      "localizedDescription": "This app was made with the intention to track the daily vibe by simply using emojis and with the possibility in adding notes if wanted. It is possible to monitor the daily vibes both monthly (by default), yearly, considering all the avaiable data and even selecting a custom time window. The app allow to export all the daily logged data so that can be easily imported in another iOS device or just stored. In addition is possible to program and monitor long terms plans that can be mark as recurrent if wanted.",
+      "localizedDescription": "This app was made with the intention to track the daily vibe by simply using emojis and with the possibility to add notes if wanted. It is possible to monitor the daily vibes both monthly (by default), yearly, considering all the avaiable data and even selecting a custom time window. The app allows to export all the daily vibes logged data so that can be easily imported in another iOS device or just saved. In addition it is possible to program and monitor long terms plans by months, years and selecting a custom time period in months which can be marked as recurrent if wanted.",
       "iconURL": "https://i.imgur.com/2Nz5t8A.png",
       "tintColor": "#0030f0",
       "category": "lifestyle",
       "size": 16871073,
       "screenshotURLs": [
-        "https://i.imgur.com/GpukGBC.png",
-        "https://i.imgur.com/E5CupX9.png"
+        "https://i.imgur.com/itMVeTd.png",
+        "https://i.imgur.com/RmC0NYs.png",
+        "https://i.imgur.com/GdRCEee.png",
+        "https://i.imgur.com/d5gzhE4.png"
       ],
       "permissions": [
         {
@@ -41,7 +43,7 @@
     {
       "title": "Daily-Vibes v1.0.0 Released",
       "identifier": "v1.0.0",
-      "caption": "Daily vibe your day and planning",
+      "caption": "Daily vibe your day and make plans",
       "date": "2025-06-07T12:22:45.955Z",
       "tintColor": "#007AFF",
       "imageURL": "https://i.imgur.com/2Nz5t8A.png",
