@@ -38,7 +38,34 @@
           "usageDescription": "Allows the app to refresh content in the background"
         }
       ]
+    },
+    {
+      "name": "TanTimer",
+      "bundleIdentifier": "com.tantimer.app",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "Reminder to flip for even tanning!",
+      "version": "1.0.0",
+      "versionDate": "2025-06-11T06:52:00+02:00",
+      "versionDescription": "Reminder to flip for even tanning!",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/TanTimer/TanTimer.ipa",
+      "localizedDescription": "Reminder to flip for even tanning!",
+      "iconURL": "https://i.imgur.com/c70MQVQ.png",
+      "tintColor": "#6156e2",
+      "category": "lifestyle",
+      "size": 7536842,
+      "screenshotURLs": [
+        "https://i.imgur.com/mCrQEj8.jpg",
+        "https://i.imgur.com/sRior08.jpg"
+      ],
+      "permissions": [
+        {
+          "type": "background-app-refresh",
+          "usageDescription": "Allows the app to refresh content in the background",
+          "NSMicrophoneUsageDescription":"Allow TanTimer to access your microphone for custom alert sounds."
+        }
+      ]
     }
+
   ],
   "news": [
     {
@@ -49,6 +76,16 @@
       "tintColor": "#007AFF",
       "imageURL": "https://i.imgur.com/2Nz5t8A.png",
       "notify": false
+    },
+    {
+      "title": "TanTimer v1.0.0 Released",
+      "identifier": "v1.0.0",
+      "caption": "Reminder to flip for even tanning!",
+      "date": "2025-06-11T06:52:00+02:00",
+      "tintColor": "#007AFF",
+      "imageURL": "https://i.imgur.com/c70MQVQ.png",
+      "notify": false
     }
+
   ]
 }
