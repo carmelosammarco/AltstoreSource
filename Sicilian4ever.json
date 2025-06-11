@@ -49,14 +49,14 @@
       "versionDate": "2025-06-11T06:52:00+02:00",
       "versionDescription": "Reminder to flip for even tanning!",
       "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/TanTimer/TanTimer.ipa",
-      "localizedDescription": "Reminder to flip for even tanning! After the selection of the time window (10s it is just for testing purposes, so to be considered 15 or 30 min) just tap one time the big button in the middle of the screen to stop/pause while a long press to reset the countdown. If the swich below the big button is set on system then a simple ring  sound will be played, instead if custom is set then you can select any audio file to be reproduced from the lcal storage (It can be also a recording using the voice memos app). The  sound will be played for 5 sec before the countdown restarts.",
+      "localizedDescription": "Reminder to flip for even tanning! After the selection of the customised time window just tap one time the big button in the middle of the screen to stop/pause while a long press to reset the countdown to the selecting time frame. If the swich on the bottom is set on system then a simple ring  sound will be played, instead if custom is set then you can select any audio file to be reproduced from your local storage (It can be also a recording using the voice memos native ios app). The  sound selected will be played for 5 sec before the countdown restarts again.",
       "iconURL": "https://i.imgur.com/c70MQVQ.png",
       "tintColor": "#6156e2",
       "category": "lifestyle",
       "size": 7536842,
       "screenshotURLs": [
-        "https://i.imgur.com/jEpt6Lf.jpg",
-        "https://i.imgur.com/BPkAnEF.jpg"
+        "https://i.imgur.com/rM51kbq.png",
+        "https://i.imgur.com/uWq0DmR.png"
       ],
       "permissions": [
         {
