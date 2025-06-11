@@ -7,7 +7,8 @@
   "website": "https://carmelosammarco.vercel.app",
   "tintColor": "#005ef0",
   "featuredApps": [
-    "com.carmelos.dailyvibeapp"
+    "com.carmelos.dailyvibeapp",
+    "com.tantimer.app"
   ],
   "headerURL": "https://i.imgur.com/m8hCufo.png",
   "apps": [
