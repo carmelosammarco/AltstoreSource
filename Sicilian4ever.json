@@ -65,17 +65,44 @@
           "NSMicrophoneUsageDescription":"Allow TanTimer to access your microphone for custom alert sounds."
         }
       ]
+    },
+
+    {
+      "name": "TrackRecStudio",
+      "bundleIdentifier": "com.trackrec.studio",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "Multi-tracks recording",
+      "version": "1.0.0",
+      "versionDate": "2025-06-12T14:15:00+02:00",
+      "versionDescription": "Multi-tracks recording",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/TrackRecStudio/TrackRecStudio.ipa",
+      "localizedDescription": "My aim was to create the simplest and a very intuitive multitrack recording studio.",
+      "iconURL": "https://i.imgur.com/n7WGeU3.png",
+      "tintColor": "#e4244c",
+      "category": "utilities",
+      "size": 7500000,
+      "screenshotURLs": [
+        "https://i.imgur.com/ntCQk62.png",
+        "https://i.imgur.com/3N2z4yP.png",
+        "https://i.imgur.com/RYW5jU0.png"
+      ],
+      "permissions": [
+        {
+          "NSMicrophoneUsageDescription": "This app needs microphone access to record audio tracks for your multitrack recordings. Your audio data stays completely private on your device.",
+          "NSPhotoLibraryUsageDescription": "This app may access your photo library to save or share your audio recordings as files."
+        }
+      ]
     }
 
   ],
   "news": [
     {
-      "title": "TanTimer v1.0.0 Released",
+      "title": "TrackRecStudio v1.0.0 Released",
       "identifier": "v1.0.0",
-      "caption": "Reminder to flip for even tanning!",
-      "date": "2025-06-11T06:52:00+02:00",
+      "caption": "Multi-tracks recording",
+      "date": "2025-06-12T14:15:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/c70MQVQ.png",
+      "imageURL": "https://i.imgur.com/n7WGeU3.png",
       "notify": false
     }
 
