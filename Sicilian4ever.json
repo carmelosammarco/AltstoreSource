@@ -93,17 +93,44 @@
           "NSPhotoLibraryUsageDescription": "This app may access your photo library to save or share your audio recordings as files."
         }
       ]
+    },
+
+    {
+      "name": "squareoff",
+      "bundleIdentifier": "com.squareoff.squareoffClean",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "Play and solve the matrix!",
+      "version": "2.0.0",
+      "versionDate": "2025-06-17T11:00:00+02:00",
+      "versionDescription": "The game consist in solve a matrix following simple moving rules",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/SquareOFF/SquareOFF.ipa",
+      "localizedDescription": "The game consist in solve a matrix following simple moving rules.",
+      "iconURL": "https://i.imgur.com/okaVugx.png",
+      "tintColor": "#14bcfc",
+      "category": "Game",
+      "size": 24300000,
+      "screenshotURLs": [
+        "https://i.imgur.com/GQRtq5U.png",
+        "https://i.imgur.com/x7BMGCJ.png",
+        "https://i.imgur.com/SyaxxLA.png",
+        "https://i.imgur.com/vTleVed.png"
+        
+      ],
+      "permissions": [
+        {
+        }
+      ]
     }
 
   ],
   "news": [
     {
-      "title": "TrackRecStudio v1.0.0 Released",
-      "identifier": "v1.0.0",
-      "caption": "Multi-tracks recording",
-      "date": "2025-06-12T14:15:00+02:00",
+      "title": "SquareOFF v2.0.0 Released",
+      "identifier": "v2.0.0",
+      "caption": "Play and solve the matrix!",
+      "date": "2025-06-17T11:00:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/n7WGeU3.png",
+      "imageURL": "https://i.imgur.com/okaVugx.png",
       "notify": false
     }
 
