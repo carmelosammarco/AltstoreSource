@@ -97,7 +97,7 @@
     },
 
     {
-      "name": "squareoff",
+      "name": "SquareOFF",
       "bundleIdentifier": "com.squareoff.squareoffClean",
       "developerName": "Carmelo Sammarco",
       "subtitle": "Play and solve the matrix!",
