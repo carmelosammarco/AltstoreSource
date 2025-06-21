@@ -10,7 +10,8 @@
     "com.carmelos.dailyvibeapp",
     "com.tantimer.app",
     "com.trackrec.studio",
-    "com.squareoff.squareoffClean"
+    "com.squareoff.squareoffClean",
+    "com.myguests.app"
   ],
   "headerURL": "https://i.imgur.com/m8hCufo.png",
   "apps": [
@@ -123,17 +124,51 @@
         {
         }
       ]
+    },
+
+     {
+      "name": "MyGuests",
+      "bundleIdentifier": "com.myguests.app",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "A simple app to manage your guests",
+      "version": "1.0",
+      "versionDate": "2025-06-21T13:46:00+02:00",
+      "versionDescription": "A simple app to manage your guests",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/MyGuests/MyGuests.ipa",
+      "localizedDescription": "A simple app to manage your guests. You can create your own structure and inside it you can list all your guest with their info. The backup functionality allow you to save the data or be able in moving device without any data loss.",
+      "iconURL": "https://i.imgur.com/cpdJihT.png",
+      "tintColor": "#4474cc",
+      "category": "utilities",
+      "size": 24300000,
+      "screenshotURLs": [
+        "https://i.imgur.com/wPjmheW.png",
+        "https://i.imgur.com/mG7kPs8.png",
+        "https://i.imgur.com/Ipz7Tah.png",
+        "https://i.imgur.com/MEjUvNl.png"
+        
+      ],
+      "permissions": [
+        {
+          "privacy": {
+            "NSCameraUsageDescription": "This app needs access to camera to take photos of guests for their profiles and ID documents.",
+            "NSPhotoLibraryAddUsageDescription": "This app needs access to save photos to your photo library.",
+            "NSPhotoLibraryUsageDescription": "This app needs access to photo library to select photos for guest profiles and ID documents."
+          }
+        }
+      ]
     }
+
+
 
   ],
   "news": [
     {
-      "title": "SquareOFF v2.0.0 Released",
-      "identifier": "v2.0.0",
-      "caption": "Play and solve the matrix!",
-      "date": "2025-06-17T11:00:00+02:00",
+      "title": "MyGuests v1.0 Released",
+      "identifier": "v1.0",
+      "caption": "A simple app to manage your guests",
+      "date": "2025-06-21T13:46:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/okaVugx.png",
+      "imageURL": "https://i.imgur.com/cpdJihT.png",
       "notify": false
     }
 
