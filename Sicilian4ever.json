@@ -11,7 +11,8 @@
     "com.tantimer.app",
     "com.trackrec.studio",
     "com.squareoff.squareoffClean",
-    "com.myguests.app"
+    "com.myguests.app",
+    "com.sicilian4ever.PostureGuard"
   ],
   "headerURL": "https://i.imgur.com/m8hCufo.png",
   "apps": [
@@ -156,6 +157,33 @@
           }
         }
       ]
+    },
+
+    {
+      "name": "PostureGuard",
+      "bundleIdentifier": "com.sicilian4ever.PostureGuard",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "Monitor your phone usage posture",
+      "version": "1.0",
+      "versionDate": "2025-06-23T14:37:00+02:00",
+      "versionDescription": "Monitor your phone usage posture",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/PostureGuard/PostureGuard.ipa",
+      "localizedDescription": "An iOS app that runs in the background and monitors your phone usage posture using the device's gyroscope and motion sensors. PostureGuard helps you maintain good posture by detecting when you're holding your phone too low, encouraging you to keep your device at eye level to avoid text neck",
+      "iconURL": "https://i.imgur.com/Y5GDDdg.png",
+      "tintColor": "#6156e2",
+      "category": "lifestyle",
+      "size": 1800000,
+      "screenshotURLs": [
+        "https://i.imgur.com/wdNymMg.png",
+        "https://i.imgur.com/D47NDAv.png",
+        "https://i.imgur.com/bp0lWPV.png",
+        "https://i.imgur.com/0LzpG8D.png"
+        
+      ],
+      "permissions": [
+        {
+        }
+      ]
     }
 
 
@@ -163,12 +191,12 @@
   ],
   "news": [
     {
-      "title": "MyGuests v1.0 Released",
+      "title": "PostureGuard v1.0 Released",
       "identifier": "v1.0",
-      "caption": "A simple app to manage your guests",
-      "date": "2025-06-21T13:46:00+02:00",
+      "caption": "Monitor your phone usage posture",
+      "date": "2025-06-23T14:37:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/cpdJihT.png",
+      "imageURL": "https://i.imgur.com/Y5GDDdg.png",
       "notify": false
     }
 
