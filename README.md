@@ -10,3 +10,4 @@
 - **SquareOFF:** The game consist in solve a matrix of different difficulties following simple moving rules.
 - **MyGuests:**  It is a simple app to manage both your guests and structures. You can create your own structure and inside it you can list all your guest with their info. The backup functionality allow you to save the data or change device without any data loss. Thanks to a filter funtionality it is possible aquire statistics and other important value based on the time frame selected. 
 - **PostureGuard:** An iOS app that runs in the background and monitors your phone usage posture using the device's gyroscope and motion sensors. PostureGuard helps you maintain good posture by detecting when you're holding your phone too low, encouraging you to keep your device at eye level to avoid text neck.
+- **PinMapApp:** "Pin and categorize locations with the possibility to give them a ranking score and description.

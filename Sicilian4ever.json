@@ -12,7 +12,7 @@
     "com.trackrec.studio",
     "com.squareoff.squareoffClean",
     "com.myguests.app",
-    "com.sicilian4ever.PostureGuard"
+    "com.carmelos.PinMapApp"
   ],
   "headerURL": "https://i.imgur.com/m8hCufo.png",
   "apps": [
@@ -184,6 +184,37 @@
         {
         }
       ]
+    },
+
+     {
+      "name": "PinMapApp",
+      "bundleIdentifier": "com.carmelos.PinMapApp",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "Pin and categorize locations",
+      "version": "1.0",
+      "versionDate": "2025-07-13T22:10:00+02:00",
+      "versionDescription": "Pin and categorize locations",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/PinMapApp/PinMapApp.ipa",
+      "localizedDescription": "Pin and categorize locations with the possibility to give them a ranking score and description.",
+      "iconURL": "https://i.imgur.com/iO1vcoh.png",
+      "tintColor": "#2ccc74",
+      "category": "utilities",
+      "size": 9400000,
+      "screenshotURLs": [
+        "https://i.imgur.com/Py2n8Pj.jpg",
+        "https://i.imgur.com/LhJ3zW6.jpg",
+        "https://i.imgur.com/Tlu6IQT.jpg"
+        
+      ],
+      "permissions": [
+        {
+          "privacy": {
+            "NSLocationAlwaysAndWhenInUseUsageDescription":"This app needs access to your location to show your position on the map and allow you to add waypoints at your current location.",
+            "NSLocationAlwaysUsageDescription": "Allow PinMapApp to access your location",
+            "NSLocationWhenInUseUsageDescription": "This app needs access to your location to show your position on the map and allow you to add waypoints at your current location."
+          }
+        }
+      ]
     }
 
 
@@ -191,12 +222,12 @@
   ],
   "news": [
     {
-      "title": "PostureGuard v1.0 Released",
+      "title": "PinMapApp v1.0 Released",
       "identifier": "v1.0",
-      "caption": "Monitor your phone usage posture",
-      "date": "2025-06-23T14:37:00+02:00",
+      "caption": "Pin and categorize locations",
+      "date": "2025-07-13T22:10:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/Y5GDDdg.png",
+      "imageURL": "https://i.imgur.com/iO1vcoh.png",
       "notify": false
     }
 
