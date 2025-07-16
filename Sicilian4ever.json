@@ -8,8 +8,7 @@
   "tintColor": "#005ef0",
   "featuredApps": [
     "com.carmelos.dailyvibeapp",
-    "com.tantimer.app",
-    "com.trackrec.studio",
+    "com.sicilian4ever.MovieShrink",
     "com.squareoff.squareoffClean",
     "com.myguests.app",
     "com.carmelos.PinMapApp"
@@ -215,6 +214,41 @@
           }
         }
       ]
+    },
+
+
+    {
+      "name": "MovieShrink",
+      "bundleIdentifier": "com.sicilian4ever.MovieShrink",
+      "developerName": "Carmelo Sammarco",
+      "subtitle": "Make your video faster or slower",
+      "version": "1.0",
+      "versionDate": "2025-07-16T11:39:00+02:00",
+      "versionDescription": "Make your video faster or slower",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/MovieShrink/MovieShrink.ipa",
+      "localizedDescription": "Make your video faster or slower (with or without audio)",
+      "iconURL": "https://i.imgur.com/FjH6mm5.png",
+      "tintColor": "#a48c4c",
+      "category": "photo-video",
+      "size": 400000,
+      "screenshotURLs": [
+        "https://i.imgur.com/eL3KhfP.png",
+        "https://i.imgur.com/Cemedga.png",
+        "https://i.imgur.com/yyOSkvd.png",
+        "https://i.imgur.com/W3Fb1ya.png",
+        "https://i.imgur.com/NWec0g5.png",
+        "https://i.imgur.com/JJR7mnd.png",
+        "https://i.imgur.com/Pr3JbPM.png"
+        
+      ],
+      "permissions": [
+        {
+          "privacy": {
+            "NSPhotoLibraryAddUsageDescription": "MovieShrink needs permission to save processed videos to your Photos library.",
+            "NSPhotoLibraryUsageDescription": "MovieShrink needs access to your Photos to select and save videos for compression."
+          }
+        }
+      ]
     }
 
 
@@ -222,12 +256,12 @@
   ],
   "news": [
     {
-      "title": "PinMapApp v1.0 Released",
+      "title": "MovieShrink v1.0 Released",
       "identifier": "v1.0",
-      "caption": "Pin and categorize locations",
-      "date": "2025-07-13T22:10:00+02:00",
+      "caption": "Make your video faster or slower",
+      "date": "2025-07-16T11:39:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/iO1vcoh.png",
+      "imageURL": "https://i.imgur.com/FjH6mm5.png",
       "notify": false
     }
 
