@@ -257,16 +257,24 @@
       "developerName": "Carmelo Sammarco",
       "subtitle": "Book time slots of different businesses",
       "version": "1.0",
-      "versuionDate": "2025-12-15T21:47:00+01:00",
+      "versionDate": "2025-12-15T21:47:00+01:00",
       "versionDescription": "Book time slots of different businesses",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/BookingApp/BokingApp.ipa",
       "localizedDescription": "This App make possible time slots booking for different services associated to it and allows their confirmation or declination by the business owner. It can be also customized to send the notifications by the use of personalized workflows developed in n8n.",
       "iconURL": "https://i.imgur.com/khzdvVc.png",
       "tintColor": "#6156e2",
       "category": "other",
       "size": 3000000,
-      "screenshots": [
-
+      "screenshotURLs": [
+        "https://i.imgur.com/eL3KhfP.png",
+        "https://i.imgur.com/Cemedga.png",
+        "https://i.imgur.com/yyOSkvd.png",
+        "https://i.imgur.com/W3Fb1ya.png",
+        "https://i.imgur.com/NWec0g5.png",
+        "https://i.imgur.com/JJR7mnd.png",
+        "https://i.imgur.com/Pr3JbPM.png"
       ],
+      
       "permissions": [
         {
         }
