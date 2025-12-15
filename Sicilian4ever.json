@@ -259,7 +259,7 @@
       "version": "1.0",
       "versionDate": "2025-12-15T21:47:00+01:00",
       "versionDescription": "Book time slots of different businesses",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/BookingApp/BokingApp.ipa",
+      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/BookingAPP/BokingApp.ipa",
       "localizedDescription": "This App make possible time slots booking for different services associated to it and allows their confirmation or declination by the business owner. It can be also customized to send the notifications by the use of personalized workflows developed in n8n.",
       "iconURL": "https://i.imgur.com/khzdvVc.png",
       "tintColor": "#6156e2",
