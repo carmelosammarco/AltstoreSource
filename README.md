@@ -14,3 +14,4 @@
 - **PostureGuard:** An iOS app that runs in the background and monitors your phone usage posture using the device's gyroscope and motion sensors. PostureGuard helps you maintain good posture by detecting when you're holding your phone too low, encouraging you to keep your device at eye level to avoid text neck.
 - **PinMapApp:** Pin and categorize locations with the possibility to give them a ranking score and description.
 - **MovieShrink:** Make your video faster or slower (with or without audio)
+- **BookingApp:** This App make possible time slots booking for different services associated to it and allows their confirmation or declination by the business owner. It can be also customized to send the notifications by the use of personalized workflows developed in n8n.
