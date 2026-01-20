@@ -7,42 +7,14 @@
   "website": "https://carmelosammarco.vercel.app",
   "tintColor": "#005ef0",
   "featuredApps": [
-    "com.carmelos.dailyvibeapp",
-    "com.sicilian4ever.MovieShrink",
     "com.squareoff.squareoffClean",
-    "com.myguests.app",
-    "com.carmelos.PinMapApp"
+    "com.carmelos.PinMapApp",
+    "com.trackrec.studio"
   ],
   "headerURL": "https://i.imgur.com/m8hCufo.png",
   "apps": [
-    {
-      "name": "Daily Vibes",
-      "bundleIdentifier": "com.carmelos.dailyvibeapp",
-      "developerName": "Carmelo Sammarco",
-      "subtitle": "Daily vibe your day and make plans",
-      "version": "1.0.0",
-      "versionDate": "2025-06-07T12:22:45.955Z",
-      "versionDescription": "Daily vibe your days and make plans",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/DailyVibes/DailyVibes.ipa",
-      "localizedDescription": "This app was made with the intention to track the daily vibe by simply using emojis and with the possibility to add notes if wanted. Futhermore, It is possible to monitor the daily vibes both monthly (by default), yearly, considering all the avaiable data and even selecting a custom time window. In addition it is possible to program and monitor long terms plans by months, years and by selecting a custom time period in months which can be marked as recurrent if wanted. Lastly it is possible record the monthly expensed to understand better yur finance with the possibility to store the measurements for tracking purposes. The app allows to export all the daily vibes logged data so that can be easily imported in another iOS device or just saved for reference. ",
-      "iconURL": "https://i.imgur.com/2Nz5t8A.png",
-      "tintColor": "#0030f0",
-      "category": "lifestyle",
-      "size": 16897761,
-      "screenshotURLs": [
-        "https://i.imgur.com/8sCFvsj.png",
-        "https://i.imgur.com/RmC0NYs.png",
-        "https://i.imgur.com/GdRCEee.png",
-        "https://i.imgur.com/NGEoRgm.png",
-        "https://i.imgur.com/6YkCPd1.png"
-      ],
-      "permissions": [
-        {
-          "type": "background-app-refresh",
-          "usageDescription": "Allows the app to refresh content in the background"
-        }
-      ]
-    },
+   
+
     {
       "name": "TanTimer",
       "bundleIdentifier": "com.tantimer.app",
@@ -70,6 +42,10 @@
       ]
     },
 
+
+
+
+
     {
       "name": "TrackRecStudio",
       "bundleIdentifier": "com.trackrec.studio",
@@ -96,6 +72,9 @@
         }
       ]
     },
+
+
+
 
     {
       "name": "SquareOFF",
@@ -126,64 +105,8 @@
       ]
     },
 
-     {
-      "name": "MyGuests",
-      "bundleIdentifier": "com.myguests.app",
-      "developerName": "Carmelo Sammarco",
-      "subtitle": "A simple app to manage your guests",
-      "version": "1.0",
-      "versionDate": "2025-06-21T13:46:00+02:00",
-      "versionDescription": "A simple app to manage your guests",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/MyGuests/MyGuests.ipa",
-      "localizedDescription": "A simple app to manage your guests. You can create your own structure and inside it you can list all your guest with their info. The backup functionality allow you to save the data or be able in moving device without any data loss.",
-      "iconURL": "https://i.imgur.com/cpdJihT.png",
-      "tintColor": "#4474cc",
-      "category": "utilities",
-      "size": 24300000,
-      "screenshotURLs": [
-        "https://i.imgur.com/wPjmheW.png",
-        "https://i.imgur.com/mG7kPs8.png",
-        "https://i.imgur.com/Ipz7Tah.png",
-        "https://i.imgur.com/MEjUvNl.png"
-        
-      ],
-      "permissions": [
-        {
-          "privacy": {
-            "NSCameraUsageDescription": "This app needs access to camera to take photos of guests for their profiles and ID documents.",
-            "NSPhotoLibraryAddUsageDescription": "This app needs access to save photos to your photo library.",
-            "NSPhotoLibraryUsageDescription": "This app needs access to photo library to select photos for guest profiles and ID documents."
-          }
-        }
-      ]
-    },
 
-    {
-      "name": "PostureGuard",
-      "bundleIdentifier": "com.sicilian4ever.PostureGuard",
-      "developerName": "Carmelo Sammarco",
-      "subtitle": "Monitor your phone usage posture",
-      "version": "1.0",
-      "versionDate": "2025-06-23T14:37:00+02:00",
-      "versionDescription": "Monitor your phone usage posture",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/PostureGuard/PostureGuard.ipa",
-      "localizedDescription": "An iOS app that runs in the background and monitors your phone usage posture using the device's gyroscope and motion sensors. PostureGuard helps you maintain good posture by detecting when you're holding your phone too low, encouraging you to keep your device at eye level to avoid text neck",
-      "iconURL": "https://i.imgur.com/Y5GDDdg.png",
-      "tintColor": "#6156e2",
-      "category": "lifestyle",
-      "size": 1800000,
-      "screenshotURLs": [
-        "https://i.imgur.com/wdNymMg.png",
-        "https://i.imgur.com/D47NDAv.png",
-        "https://i.imgur.com/bp0lWPV.png",
-        "https://i.imgur.com/0LzpG8D.png"
-        
-      ],
-      "permissions": [
-        {
-        }
-      ]
-    },
+
 
      {
       "name": "PinMapApp",
@@ -217,39 +140,6 @@
     },
 
 
-    {
-      "name": "MovieShrink",
-      "bundleIdentifier": "com.sicilian4ever.MovieShrink",
-      "developerName": "Carmelo Sammarco",
-      "subtitle": "Make your video faster or slower",
-      "version": "1.0",
-      "versionDate": "2025-07-16T11:39:00+02:00",
-      "versionDescription": "Make your video faster or slower",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/MovieShrink/MovieShrink.ipa",
-      "localizedDescription": "Make your video faster or slower (with or without audio)",
-      "iconURL": "https://i.imgur.com/FjH6mm5.png",
-      "tintColor": "#a48c4c",
-      "category": "photo-video",
-      "size": 400000,
-      "screenshotURLs": [
-        "https://i.imgur.com/eL3KhfP.png",
-        "https://i.imgur.com/Cemedga.png",
-        "https://i.imgur.com/yyOSkvd.png",
-        "https://i.imgur.com/W3Fb1ya.png",
-        "https://i.imgur.com/NWec0g5.png",
-        "https://i.imgur.com/JJR7mnd.png",
-        "https://i.imgur.com/Pr3JbPM.png"
-        
-      ],
-      "permissions": [
-        {
-          "privacy": {
-            "NSPhotoLibraryAddUsageDescription": "MovieShrink needs permission to save processed videos to your Photos library.",
-            "NSPhotoLibraryUsageDescription": "MovieShrink needs access to your Photos to select and save videos for compression."
-          }
-        }
-      ]
-    },
 
     {
       "name": "BookingApp",
@@ -277,12 +167,12 @@
   ],
   "news": [
     {
-      "title": "MovieShrink v1.0 Released",
+      "title": "BookingApp v1.0 Released",
       "identifier": "v1.0",
-      "caption": "Make your video faster or slower",
-      "date": "2025-07-16T11:39:00+02:00",
+      "caption": "Book time slots of different businesses",
+      "date": "2025-12-15T21:47:00+01:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/FjH6mm5.png",
+      "imageURL": "https://i.imgur.com/khzdvVc.png",
       "notify": false
     }
 
