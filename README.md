@@ -3,7 +3,7 @@
 ### SOURCE: https://carmelosammarco.github.io/AltstoreSource/Sicilian4ever.json
 ### TinyURL Source: https://tinyurl.com/Sicilian4ever
 
-<p align="center" width="100%"><img width="50%" src="https://i.imgur.com/QAPAjX3.gif"></p>
+<p align="center" width="50%"><img width="25%" src="https://i.imgur.com/QAPAjX3.gif"></p>
 
 #### APP LIST:
 - **TanTimer:** Reminder to flip for even tanning! 
