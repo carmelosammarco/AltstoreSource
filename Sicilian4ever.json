@@ -8,8 +8,6 @@
   "tintColor": "#005ef0",
   "featuredApps": [
     "com.squareoff.squareoffClean",
-    "com.carmelos.PinMapApp",
-    "com.trackrec.studio",
     "com.tantimer.app"
   ],
   "headerURL": "https://i.imgur.com/m8hCufo.png",
@@ -46,37 +44,6 @@
 
 
 
-
-    {
-      "name": "TrackRecStudio",
-      "bundleIdentifier": "com.trackrec.studio",
-      "developerName": "Carmelo Sammarco",
-      "subtitle": "Multi-tracks recording",
-      "version": "1.6",
-      "versionDate": "2025-06-12T14:15:00+02:00",
-      "versionDescription": "Multi-tracks recording",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/TrackRecStudio/TrackRecStudio.ipa",
-      "localizedDescription": "My aim was to create the simplest and a very intuitive multitrack recording studio.",
-      "iconURL": "https://i.imgur.com/n7WGeU3.png",
-      "tintColor": "#e4244c",
-      "category": "entertainment",
-      "size": 7500000,
-      "screenshotURLs": [
-        "https://i.imgur.com/ntCQk62.png",
-        "https://i.imgur.com/3N2z4yP.png",
-        "https://i.imgur.com/RYW5jU0.png"
-      ],
-      "permissions": [
-        {
-          "NSMicrophoneUsageDescription": "This app needs microphone access to record audio tracks for your multitrack recordings. Your audio data stays completely private on your device.",
-          "NSPhotoLibraryUsageDescription": "This app may access your photo library to save or share your audio recordings as files."
-        }
-      ]
-    },
-
-
-
-
     {
       "name": "SquareOFF",
       "bundleIdentifier": "com.squareoff.squareoffClean",
@@ -104,40 +71,6 @@
         {
         }
       ]
-    },
-
-
-
-
-     {
-      "name": "PinMapApp",
-      "bundleIdentifier": "com.carmelos.PinMapApp",
-      "developerName": "Carmelo Sammarco",
-      "subtitle": "Pin and categorize locations",
-      "version": "1.0.0",
-      "versionDate": "2025-07-13T22:10:00+02:00",
-      "versionDescription": "Pin and categorize locations",
-      "downloadURL": "https://carmelosammarco.github.io/AltstoreSource/APP/PinMapApp/PinMapApp.ipa",
-      "localizedDescription": "Pin and categorize locations with the possibility to give them a ranking score and description.",
-      "iconURL": "https://i.imgur.com/iO1vcoh.png",
-      "tintColor": "#2ccc74",
-      "category": "utilities",
-      "size": 9400000,
-      "screenshotURLs": [
-        "https://i.imgur.com/Py2n8Pj.jpg",
-        "https://i.imgur.com/LhJ3zW6.jpg",
-        "https://i.imgur.com/Tlu6IQT.jpg"
-        
-      ],
-      "permissions": [
-        {
-          "privacy": {
-            "NSLocationAlwaysAndWhenInUseUsageDescription":"This app needs access to your location to show your position on the map and allow you to add waypoints at your current location.",
-            "NSLocationAlwaysUsageDescription": "Allow PinMapApp to access your location",
-            "NSLocationWhenInUseUsageDescription": "This app needs access to your location to show your position on the map and allow you to add waypoints at your current location."
-          }
-        }
-      ]
     }
 
 
@@ -145,12 +78,12 @@
   ],
   "news": [
     {
-      "title": "BookingApp v1.0 Released",
-      "identifier": "v1.0",
-      "caption": "Book time slots of different businesses",
-      "date": "2025-12-15T21:47:00+01:00",
+      "title": "SquareOFF Released",
+      "identifier": "v2.0",
+      "caption": "Play and solve the matrix!",
+      "date": "2025-06-17T11:00:00+02:00",
       "tintColor": "#007AFF",
-      "imageURL": "https://i.imgur.com/khzdvVc.png",
+      "imageURL": "https://i.imgur.com/okaVugx.png",
       "notify": false
     }
 
