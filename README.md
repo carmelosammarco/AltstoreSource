@@ -8,4 +8,4 @@
 - **SquareOFF:** The game consist in solve a matrix of different difficulties following simple moving rules.
 
 ------------------------------
-![Imgur](https://i.imgur.com/QAPAjX3.gif)
+![Imgur](https://i.imgur.com/sMdlQfm.gif)
